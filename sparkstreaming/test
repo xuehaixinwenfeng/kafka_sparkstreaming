@@ -1,0 +1,1 @@
+hive -e "select * from rptdata.fact_king_game_detail limit 10"
